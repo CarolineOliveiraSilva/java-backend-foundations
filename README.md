@@ -1,6 +1,6 @@
 # ☕ Exercícios de Java (POO)
 
-Repositório dedicado ao estudo e prática de **Programação Orientada a Objetos** com a linguagem Java. Aqui registro minha evolução acadêmica em Análise e Desenvolvimento de Sistemas.
+Repositório dedicado ao estudo e prática de **Programação Orientada a Objetos** com a linguagem Java. 
 
 ---
 
@@ -17,6 +17,8 @@ Repositório dedicado ao estudo e prática de **Programação Orientada a Objeto
 | :--- | :--- | :--- | :---: |
 | 01 | [Cálculo de Área de Triângulo](./01-area-triangulo) | Classes, Atributos, Métodos, POO | ✅ |
 | 02 | [Controle de Estoque](./02-controle-estoque) | Métodos, `this`, `toString`, Encapsulamento | ✅ |
+| 03 | [Valor do PI](./03-valor-do-pi) | Membros Estáticos (`static`), Constantes (`final`), Métodos Utilitários | ✅ |
+| 04 | [Cálculo de Dólar](./04-calcular-dolar) | Membros Estáticos, Delegação de Responsabilidades, Regras de Negócio (IOF) | ✅ |
 
 ---
 
