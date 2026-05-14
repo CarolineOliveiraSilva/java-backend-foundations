@@ -19,6 +19,7 @@ Repositório dedicado ao estudo e prática de **Programação Orientada a Objeto
 | 02 | [Controle de Estoque](./02-controle-estoque) | Métodos, `this`, `toString`, Encapsulamento | ✅ |
 | 03 | [Valor do PI](./03-valor-do-pi) | Membros Estáticos (`static`), Constantes (`final`), Métodos Utilitários | ✅ |
 | 04 | [Cálculo de Dólar](./04-calcular-dolar) | Membros Estáticos, Delegação de Responsabilidades, Regras de Negócio (IOF) | ✅ |
+| 05 | [Simulador Bancário](./05-simulador-bancario) | Construtores, Sobrecarga, palavra `this`, Encapsulamento, Regras de Negócio | ✅ |
 
 ---
 
