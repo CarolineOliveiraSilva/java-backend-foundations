@@ -8,9 +8,9 @@ Este diretório contém exercícios focados na manipulação de dados e algoritm
 *   **POO Aplicada:** Uso de classes e entidades para representar dados estruturados.
 
 ## 📂 Exercícios incluídos:
-*   `NumerosPares.java`: Identificação e filtragem de elementos em uma coleção.
-*   `MaiorPosicao.java`: Lógica para busca e comparação de valores dentro de um array.
-*   `Product.java`: Classe de entidade para representar objetos com atributos e métodos.
+*   [`NumerosPares.java`](https://github.com/CarolineOliveiraSilva/exercicios-java/blob/main/06-estruturas-de-dados/src/application/NumerosPares.java).: Identificação e filtragem de elementos em uma coleção.
+*   [`MaiorPosicao.java`](https://github.com/CarolineOliveiraSilva/exercicios-java/blob/main/06-estruturas-de-dados/src/application/MaiorPosicao.java): Lógica para busca e comparação de valores dentro de um array.                                                                                                                                                           
+*   **Gestão de Produtos ([`Program.java`](https://github.com/CarolineOliveiraSilva/exercicios-java/blob/main/06-estruturas-de-dados/src/application/Program.java) e [`Product.java`](https://github.com/CarolineOliveiraSilva/exercicios-java/blob/main/06-estruturas-de-dados/src/entities/Product.java)):** Exercício que integra uma classe de entidade (`Product`) com uma classe principal (`Program`) para manipulação de dados de produtos.
 
 ---
 > "Estudando a base para construir sistemas eficientes." 💻
