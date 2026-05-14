@@ -1,0 +1,7 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "06-estruturas-de-dados/src",
+        "06-estruturas-de-dados"
+    ]
+}
