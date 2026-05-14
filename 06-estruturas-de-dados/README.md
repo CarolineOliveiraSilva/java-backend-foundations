@@ -1,18 +1,18 @@
-## Getting Started
+# 🏗️ Estruturas de Dados em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este diretório contém exercícios focados na manipulação de dados e algoritmos, parte fundamental do meu aprendizado em ADS.
 
-## Folder Structure
+## 📝 O que estou praticando aqui:
+*   **Arrays e Vetores:** Armazenamento sequencial e acesso por índices.
+*   **Lógica de Programação:** Resolução de problemas matemáticos e de ordenação.
+*   **POO Aplicada:** Uso de classes e entidades para representar dados estruturados.
 
-The workspace contains two folders by default, where:
+## 📂 Exercícios incluídos:
+*   `NumerosPares.java`: Identificação e filtragem de elementos em uma coleção.
+*   `MaiorPosicao.java`: Lógica para busca e comparação de valores dentro de um array.
+*   `Product.java`: Classe de entidade para representar objetos com atributos e métodos.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
+> "Estudando a base para construir sistemas eficientes." 💻
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A visualização `PROJETOS JAVA` permite gerenciar suas dependências. Mais detalhes podem ser encontrados [aqui](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
