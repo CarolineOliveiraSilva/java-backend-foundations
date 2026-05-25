@@ -12,7 +12,7 @@ public class Program {
 
 		Rent[] vect = new Rent[10];
 
-		System.out.print("How many rooms will be rented");
+		System.out.print("How many rooms will be rented?");
 		int n = sc.nextInt();
 
 		for (int i = 1; i <= n; i++) {
